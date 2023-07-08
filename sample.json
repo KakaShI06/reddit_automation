@@ -1,0 +1,581 @@
+{
+    "kind": "Listing",
+    "data": {
+        "after": "t3_13alyc2",
+        "dist": 2,
+        "modhash": "",
+        "geo_filter": "",
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "Python",
+                    "selftext": "And Im only half way through. \n\nworth_it = True \n\n\nYes Im a noob",
+                    "author_fullname": "t2_4b8u8a8a",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "Realised Ive spent 10 hrs learning to automate a job that takes me 15 minutes a week",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Discussion"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/Python",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "discussion",
+                    "downs": 0,
+                    "thumbnail_height": null,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_13s7h2m",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.96,
+                    "author_flair_background_color": null,
+                    "subreddit_type": "public",
+                    "ups": 1071,
+                    "total_awards_received": 2,
+                    "media_embed": {},
+                    "thumbnail_width": null,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Discussion",
+                    "can_mod_post": false,
+                    "score": 1071,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "self",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {
+                        "gid_1": 1
+                    },
+                    "content_categories": null,
+                    "is_self": true,
+                    "mod_note": null,
+                    "created": 1685090263.0,
+                    "link_flair_type": "richtext",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "self.Python",
+                    "allow_live_comments": true,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;And Im only half way through. &lt;/p&gt;\n\n&lt;p&gt;worth_it = True &lt;/p&gt;\n\n&lt;p&gt;Yes Im a noob&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "all_awardings": [
+                        {
+                            "giver_coin_reward": null,
+                            "subreddit_id": null,
+                            "is_new": false,
+                            "days_of_drip_extension": null,
+                            "coin_price": 100,
+                            "id": "gid_1",
+                            "penny_donate": null,
+                            "award_sub_type": "GLOBAL",
+                            "coin_reward": 0,
+                            "icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                            "days_of_premium": null,
+                            "tiers_by_required_awardings": null,
+                            "resized_icons": [
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_width": 512,
+                            "static_icon_width": 512,
+                            "start_date": null,
+                            "is_enabled": true,
+                            "awardings_required_to_grant_benefits": null,
+                            "description": "Shows the Silver Award... and that's it.",
+                            "end_date": null,
+                            "sticky_duration_seconds": null,
+                            "subreddit_coin_reward": 0,
+                            "count": 1,
+                            "static_icon_height": 512,
+                            "name": "Silver",
+                            "resized_static_icons": [
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_format": null,
+                            "icon_height": 512,
+                            "penny_price": null,
+                            "award_type": "global",
+                            "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png"
+                        },
+                        {
+                            "giver_coin_reward": null,
+                            "subreddit_id": null,
+                            "is_new": false,
+                            "days_of_drip_extension": null,
+                            "coin_price": 150,
+                            "id": "award_77ba55a2-c33c-4351-ac49-807455a80148",
+                            "penny_donate": null,
+                            "award_sub_type": "GLOBAL",
+                            "coin_reward": 0,
+                            "icon_url": "https://i.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png",
+                            "days_of_premium": null,
+                            "tiers_by_required_awardings": null,
+                            "resized_icons": [
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=16&amp;height=16&amp;auto=webp&amp;v=enabled&amp;s=f00f3bd5ebb2fb1455fdcc9a0fd2f1aa4efd5952",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=32&amp;height=32&amp;auto=webp&amp;v=enabled&amp;s=9026e02c8df360f0383a71cc3924294a9a02f550",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=48&amp;height=48&amp;auto=webp&amp;v=enabled&amp;s=197bc297ff747432b256a6e46f43161ce21f53de",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=64&amp;height=64&amp;auto=webp&amp;v=enabled&amp;s=9df1684b19d84cbfb659831dfab2ece10cf65253",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=128&amp;height=128&amp;auto=webp&amp;v=enabled&amp;s=8ce391e555c91ec189aa64bd87a1e9f1bc569284",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_width": 2048,
+                            "static_icon_width": 2048,
+                            "start_date": null,
+                            "is_enabled": true,
+                            "awardings_required_to_grant_benefits": null,
+                            "description": "Prayers up for the blessed.",
+                            "end_date": null,
+                            "sticky_duration_seconds": null,
+                            "subreddit_coin_reward": 0,
+                            "count": 1,
+                            "static_icon_height": 2048,
+                            "name": "Bless Up",
+                            "resized_static_icons": [
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=16&amp;height=16&amp;auto=webp&amp;v=enabled&amp;s=f00f3bd5ebb2fb1455fdcc9a0fd2f1aa4efd5952",
+                                    "width": 16,
+                                    "height": 16
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=32&amp;height=32&amp;auto=webp&amp;v=enabled&amp;s=9026e02c8df360f0383a71cc3924294a9a02f550",
+                                    "width": 32,
+                                    "height": 32
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=48&amp;height=48&amp;auto=webp&amp;v=enabled&amp;s=197bc297ff747432b256a6e46f43161ce21f53de",
+                                    "width": 48,
+                                    "height": 48
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=64&amp;height=64&amp;auto=webp&amp;v=enabled&amp;s=9df1684b19d84cbfb659831dfab2ece10cf65253",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=128&amp;height=128&amp;auto=webp&amp;v=enabled&amp;s=8ce391e555c91ec189aa64bd87a1e9f1bc569284",
+                                    "width": 128,
+                                    "height": 128
+                                }
+                            ],
+                            "icon_format": null,
+                            "icon_height": 2048,
+                            "penny_price": null,
+                            "award_type": "global",
+                            "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png"
+                        }
+                    ],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "0df42996-1c5e-11ea-b1a0-0e44e1c5b731",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "num_reports": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2qh0y",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "",
+                    "id": "13s7h2m",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "Ihaveapotatoinmysock",
+                    "discussion_type": null,
+                    "num_comments": 249,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/Python/comments/13s7h2m/realised_ive_spent_10_hrs_learning_to_automate_a/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://www.reddit.com/r/Python/comments/13s7h2m/realised_ive_spent_10_hrs_learning_to_automate_a/",
+                    "subreddit_subscribers": 1130673,
+                    "created_utc": 1685090263.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            },
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "Python",
+                    "selftext": "Github: [https://github.com/4Tsuki4/Handy-Sign-Language-Detection](https://github.com/4Tsuki4/Handy-Sign-Language-Detection)\n\n[gif of the program in use](https://i.redd.it/8i4yo3iqheya1.gif)",
+                    "author_fullname": "t2_3uxw021p",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "Made a program for year 12 to detect sign language via the webcam and translate it to text and audio",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Intermediate Showcase"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/Python",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": "intermediate-showcase",
+                    "downs": 0,
+                    "thumbnail_height": 87,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "media_metadata": {
+                        "8i4yo3iqheya1": {
+                            "status": "valid",
+                            "e": "AnimatedImage",
+                            "m": "image/gif",
+                            "p": [
+                                {
+                                    "y": 67,
+                                    "x": 108,
+                                    "u": "https://preview.redd.it/8i4yo3iqheya1.gif?width=108&amp;crop=smart&amp;format=png8&amp;v=enabled&amp;s=f82f91d843c24ddf27174408f2771aa473ed27a2"
+                                },
+                                {
+                                    "y": 135,
+                                    "x": 216,
+                                    "u": "https://preview.redd.it/8i4yo3iqheya1.gif?width=216&amp;crop=smart&amp;format=png8&amp;v=enabled&amp;s=477c7f4c7a60e0b6a9632bb3d6b2dc6df3cdae63"
+                                },
+                                {
+                                    "y": 200,
+                                    "x": 320,
+                                    "u": "https://preview.redd.it/8i4yo3iqheya1.gif?width=320&amp;crop=smart&amp;format=png8&amp;v=enabled&amp;s=c005bc0672dfcd17f1222ebaadc62b1abcc9fd99"
+                                },
+                                {
+                                    "y": 400,
+                                    "x": 640,
+                                    "u": "https://preview.redd.it/8i4yo3iqheya1.gif?width=640&amp;crop=smart&amp;format=png8&amp;v=enabled&amp;s=8913ef5fd2ec45c91d086ee30591a7362169c806"
+                                },
+                                {
+                                    "y": 600,
+                                    "x": 960,
+                                    "u": "https://preview.redd.it/8i4yo3iqheya1.gif?width=960&amp;crop=smart&amp;format=png8&amp;v=enabled&amp;s=140c49a8d54a85acc1e1af0c89d83e3d03899075"
+                                },
+                                {
+                                    "y": 675,
+                                    "x": 1080,
+                                    "u": "https://preview.redd.it/8i4yo3iqheya1.gif?width=1080&amp;crop=smart&amp;format=png8&amp;v=enabled&amp;s=d1cd0eadc459a0abcdbed495cc90ea9c97385d7b"
+                                }
+                            ],
+                            "s": {
+                                "y": 1800,
+                                "gif": "https://i.redd.it/8i4yo3iqheya1.gif",
+                                "mp4": "https://preview.redd.it/8i4yo3iqheya1.gif?format=mp4&amp;v=enabled&amp;s=b68fffd7477ce879a479d7791fcf0ce69a886a3b",
+                                "x": 2880
+                            },
+                            "id": "8i4yo3iqheya1"
+                        }
+                    },
+                    "name": "t3_13alyc2",
+                    "quarantine": false,
+                    "link_flair_text_color": "light",
+                    "upvote_ratio": 0.96,
+                    "author_flair_background_color": null,
+                    "ups": 648,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": false,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Intermediate Showcase",
+                    "can_mod_post": false,
+                    "score": 648,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/voZ6fgdI2b_qaTZOjYLpKrKlTvTlHatuazkOGp527IA.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "self",
+                    "content_categories": null,
+                    "is_self": true,
+                    "subreddit_type": "public",
+                    "created": 1683461553.0,
+                    "link_flair_type": "richtext",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "self.Python",
+                    "allow_live_comments": true,
+                    "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Github: &lt;a href=\"https://github.com/4Tsuki4/Handy-Sign-Language-Detection\"&gt;https://github.com/4Tsuki4/Handy-Sign-Language-Detection&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://i.redd.it/8i4yo3iqheya1.gif\"&gt;gif of the program in use&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://external-preview.redd.it/OcbZ--x-LLKSXUtMiQaJO4AwjbymKHRRl00lL-gsx1s.jpg?auto=webp&amp;v=enabled&amp;s=f14344c9d0998719068ee66e658d05ef6bc0a790",
+                                    "width": 1200,
+                                    "height": 600
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://external-preview.redd.it/OcbZ--x-LLKSXUtMiQaJO4AwjbymKHRRl00lL-gsx1s.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=a6711d98a7c106a9881540fc3f45eb89f0ac20cf",
+                                        "width": 108,
+                                        "height": 54
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/OcbZ--x-LLKSXUtMiQaJO4AwjbymKHRRl00lL-gsx1s.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=edc020a1ae27fe1f8c0a6a6b8a9f54a8b8e375da",
+                                        "width": 216,
+                                        "height": 108
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/OcbZ--x-LLKSXUtMiQaJO4AwjbymKHRRl00lL-gsx1s.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=60b41f4f1a021ba25ba3b523d117755920db73ff",
+                                        "width": 320,
+                                        "height": 160
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/OcbZ--x-LLKSXUtMiQaJO4AwjbymKHRRl00lL-gsx1s.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=ec74d9b049f21ddb61acc42fbc2145463a828561",
+                                        "width": 640,
+                                        "height": 320
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/OcbZ--x-LLKSXUtMiQaJO4AwjbymKHRRl00lL-gsx1s.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=1733f67b581accf1018e481f387e44f07d9dfa09",
+                                        "width": 960,
+                                        "height": 480
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/OcbZ--x-LLKSXUtMiQaJO4AwjbymKHRRl00lL-gsx1s.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;v=enabled&amp;s=0d1d22d27c78635e0b215d6f0a1594ab42a4e62b",
+                                        "width": 1080,
+                                        "height": 540
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "R08qPQxQYg36ZttVslex52DEnLkaFc8dASo-8L4k7XA"
+                            }
+                        ],
+                        "enabled": false
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "23ba6f68-cfa2-11ea-96b4-0e31bcb4ff77",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2qh0y",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#ea0027",
+                    "id": "13alyc2",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "OpenSourcerer420",
+                    "discussion_type": null,
+                    "num_comments": 35,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/Python/comments/13alyc2/made_a_program_for_year_12_to_detect_sign/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://www.reddit.com/r/Python/comments/13alyc2/made_a_program_for_year_12_to_detect_sign/",
+                    "subreddit_subscribers": 1130673,
+                    "created_utc": 1683461553.0,
+                    "num_crossposts": 0,
+                    "media": null,
+                    "is_video": false
+                }
+            }
+        ],
+        "before": null
+    }
+}
+
+[
+    {
+        "title": "Now that Reddit are killing 3rd party apps on July 1st what are great alternatives to Reddit?",
+        "score": 72120,
+        "url": "https://www.reddit.com/r/AskReddit/comments/13x9sy7/now_that_reddit_are_killing_3rd_party_apps_on/",
+        "id": "13x9sy7",
+        "comments": [
+            {
+                "id": "jmh1f1y",
+                "text": "I might get back into reading books after over a decade."
+            },
+            {
+                "id": "jmg09gp",
+                "text": "For context: https://9to5mac.com/2023/05/31/reddit-may-force-apollo-and-third-party-clients-to-shut-down/"
+            },
+            {
+                "id": "jmh8zwl",
+                "text": "[Usenet](https://en.wikipedia.org/wiki/Usenet) is still there, and will welcome  you back.\n\nAfter 43 years of activity, the same flamewars are still burning."
+            },
+            {
+                "id": "jmh6f3u",
+                "text": "Maan ive exclusively used RIF since atleast 2012. Real sad about this one."
+            },
+            {
+                "id": "jmg1zrl",
+                "text": "Digg.\n\nIt's time to go full circle."
+            },
+            {
+                "id": "jmh1h4b",
+                "text": "If Reddit Is Fun goes down, I'm out. If old.reddit.com goes down, I'm out.   \n\nReddit's UIs are trash enough to drive me away."
+            }
+        ]
+    }
+]
+[
+    {
+        "title": "Now that Reddit are killing 3rd party apps on July 1st what are great alternatives to Reddit?",
+        "score": 72120,
+        "url": "https://www.reddit.com/r/AskReddit/comments/13x9sy7/now_that_reddit_are_killing_3rd_party_apps_on/",
+        "id": "13x9sy7",
+        "comments": [
+            {
+                "id": "jmh1f1y",
+                "text": "I might get back into reading books after over a decade."
+            },
+            {
+                "id": "jmg09gp",
+                "text": "For context: https://9to5mac.com/2023/05/31/reddit-may-force-apollo-and-third-party-clients-to-shut-down/"
+            },
+            {
+                "id": "jmh8zwl",
+                "text": "[Usenet](https://en.wikipedia.org/wiki/Usenet) is still there, and will welcome  you back.\n\nAfter 43 years of activity, the same flamewars are still burning."
+            },
+            {
+                "id": "jmh6f3u",
+                "text": "Maan ive exclusively used RIF since atleast 2012. Real sad about this one."
+            },
+            {
+                "id": "jmg1zrl",
+                "text": "Digg.\n\nIt's time to go full circle."
+            },
+            {
+                "id": "jmh1h4b",
+                "text": "If Reddit Is Fun goes down, I'm out. If old.reddit.com goes down, I'm out.   \n\nReddit's UIs are trash enough to drive me away."
+            }
+        ]
+    }
+]
