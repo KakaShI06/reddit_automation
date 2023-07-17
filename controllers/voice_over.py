@@ -4,6 +4,9 @@ import os
 voicePostDirectory = 'VoiceOvers'
 voiceCmntDirectory = 'VoiceOvers'
 
+def removeDir(path):
+    os.rmdir(path=path)
+
 def createVoiceOver(id, text, post_id):
     engine = pyttsx3.init()
     filePath = f"{voiceCmntDirectory}/post-{post_id}/comment-{id}.mp3"

@@ -1,4 +1,4 @@
-SS_WIDTH = 400
+SS_WIDTH = 600
 SS_HEIGHT = 800
 
 PAGE_NAME = 'askreddit'
